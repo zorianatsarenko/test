@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amber Patterson",
+    "email": "amber.patterson@example.com",
+    "password": "reason",
+    "img": "https://randomuser.me/api/portraits/women/96.jpg"
+  },
+  {
+    "name": "Carla Berry",
+    "email": "carla@example.com",
+    "password": "mookie",
+    "img": "https://randomuser.me/api/portraits/women/63.jpg"
+  },
+  {
+    "name": "Bobby Kim",
+    "email": "bobby.kim@example.com",
+    "password": "charlotte",
+    "img": "https://randomuser.me/api/portraits/men/82.jpg"
+  }
+]
